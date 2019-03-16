@@ -32,55 +32,55 @@
 
 | 示例代码文件 | 功能介绍 |截图 |
 | ------------- | ------------- |-----------|
-|[001_gl_color_app.cpp][cpp001]|为整个屏幕填充一种颜色(红色)|<img src="https://github.com/androidzhibinw/LearnGLES/blob/master/screenshots/001_color.png?raw=true" width="144" height="256"/>| 
-|[002_gl_point_app.cpp][cpp002]|画一个点(可控制大小）|<img src="https://github.com/androidzhibinw/LearnGLES/blob/master/screenshots/002_point.png?raw=true" width="144" height="256">
-|[003_gl_lines_app.cpp][cpp003]|画线(GL_LINES) | <img src="https://github.com/androidzhibinw/LearnGLES/blob/master/screenshots/003_lines.png?raw=true" width="144" height="256"/>
-|[003_gl_lines_app.cpp][cpp003]|画线(GL_LINE_STRIP) | <img src="https://github.com/androidzhibinw/LearnGLES/blob/master/screenshots/003_line_strip.png?raw=true" width="144" height="256"/>
-|[003_gl_lines_app.cpp][cpp003]|画线(GL_LINE_LOOP) | <img src="https://github.com/androidzhibinw/LearnGLES/blob/master/screenshots/003_line_loop.png?raw=true" width="144" height="256"/>
-|[004_gl_triangle.cpp][cpp004]|画三角形(GL_TRIANGLES) | <img src="https://github.com/androidzhibinw/LearnGLES/blob/master/screenshots/004_triangles.png?raw=true" width="144" height="256"/>
-|[004_gl_triangle.cpp][cpp004]|画三角形(GL_TRIANGLE_STRIP) | <img src="https://github.com/androidzhibinw/LearnGLES/blob/master/screenshots/004_triangle_strip.png?raw=true" width="144" height="256"/>
-|[004_gl_triangle.cpp][cpp004]|画三角形(GL_TRIANGLE_FAN) | <img src="https://github.com/androidzhibinw/LearnGLES/blob/master/screenshots/004_triangle_fan.png?raw=true" width="144" height="256"/>
-|[005_gl_regular_polygons.cpp][cpp005]|画任意正多边形 | n=12 <img src="https://github.com/androidzhibinw/LearnGLES/blob/master/screenshots/005_regular_polygons.png?raw=true" width="144" height="256"/>
-|[006_gl_cube_app.cpp][cpp006]|立方体(透视投影)| <img src="https://github.com/androidzhibinw/LearnGLES/blob/de6945cd0f2d99c17a3ec540786f4fc1ecc28ea3/screenshots/006_cube.png" width="144" height="256"/>
-|[007_gl_texture.cpp][cpp007]|绘制一张纹理| <img src="https://github.com/androidzhibinw/LearnGLES/blob/master/screenshots/007_texture.png?raw=true" width="144" height="256"/>|
-|[008_gl_texture2.cpp][cpp008]|混合两张纹理| <img src="https://github.com/androidzhibinw/LearnGLES/blob/master/screenshots/008_texture2.png?raw=true" width="144" height="256"/>|
-|[009_gl_texture3.cpp][cpp009]|混合两张纹理（动态变化）|<img src="https://github.com/androidzhibinw/LearnGLES/blob/master/screenshots/009_texture3.gif?raw=true" width="144" height="256"/>|
-|[0010_gl_transform.cpp][cpp0010]|矩阵变换（平移/旋转/放缩）| <img src="https://github.com/androidzhibinw/LearnGLES/blob/master/screenshots/0010_transform.png?raw=true" width="144" height="256"/>|
-|[0011_gl_transform2.cpp][cpp0011]|矩阵变换（动态：平移/旋转/放缩）| <img src="https://github.com/androidzhibinw/LearnGLES/blob/master/screenshots/0011_transform2.gif?raw=true" width="144" height="256"/>|
-|[0012_gl_coordinate.cpp][cpp0012]|坐标系变换| <img src="https://github.com/androidzhibinw/LearnGLES/blob/master/screenshots/0012_coordinate.gif?raw=true" width="144" height="256"/>|
-|[0013_gl_coordinate.cpp][cpp0013]|相机移动 （旋转）| <img src="https://github.com/androidzhibinw/LearnGLES/blob/master/screenshots/0013_camera.gif?raw=true" width="144" height="256"/>|
-|[0014_gl_light.cpp][cpp0014]| 光照 |  <img src="https://github.com/androidzhibinw/LearnGLES/blob/master/screenshots/0014_light.gif?raw=true" width="144" height="256"/>|
-|[0015_gl_diffuse.cpp][cpp0015]| 漫反射 |  <img src="https://github.com/androidzhibinw/LearnGLES/blob/master/screenshots/0015_diffuse.gif?raw=true" width="144" height="256"/>|
-|[0016_gl_specular.cpp][cpp0016]| 镜面反射 |  <img src="https://github.com/androidzhibinw/LearnGLES/blob/master/screenshots/0016_specular.gif?raw=true" width="144" height="256"/>|
-|[0017_gl_material.cpp][cpp0017]| 材质（光照） |  <img src="https://github.com/androidzhibinw/LearnGLES/blob/master/screenshots/0017_material.gif?raw=true" width="144" height="256"/>|
-|[0018_gl_light_maps.cpp][cpp0018]| 材质（光照/漫反射） |  <img src="https://github.com/androidzhibinw/LearnGLES/blob/master/screenshots/0018_diffusemap.gif?raw=true" width="144" height="256"/>|
-|[0019_gl_light_maps_specular.cpp][cpp0019]| 材质（光照/镜面反射） |  <img src="https://github.com/androidzhibinw/LearnGLES/blob/master/screenshots/0019_specularmap.gif?raw=true" width="144" height="256"/>|
+|[001_gl_color_app.cpp][cpp001]|为整个屏幕填充一种颜色(红色)|<img src="https://github.com/liuxuanhai/LearnGLES/blob/master/screenshots/001_color.png?raw=true" width="144" height="256"/>| 
+|[002_gl_point_app.cpp][cpp002]|画一个点(可控制大小）|<img src="https://github.com/liuxuanhai/LearnGLES/blob/master/screenshots/002_point.png?raw=true" width="144" height="256">
+|[003_gl_lines_app.cpp][cpp003]|画线(GL_LINES) | <img src="https://github.com/liuxuanhai/LearnGLES/blob/master/screenshots/003_lines.png?raw=true" width="144" height="256"/>
+|[003_gl_lines_app.cpp][cpp003]|画线(GL_LINE_STRIP) | <img src="https://github.com/liuxuanhai/LearnGLES/blob/master/screenshots/003_line_strip.png?raw=true" width="144" height="256"/>
+|[003_gl_lines_app.cpp][cpp003]|画线(GL_LINE_LOOP) | <img src="https://github.com/liuxuanhai/LearnGLES/blob/master/screenshots/003_line_loop.png?raw=true" width="144" height="256"/>
+|[004_gl_triangle.cpp][cpp004]|画三角形(GL_TRIANGLES) | <img src="https://github.com/liuxuanhai/LearnGLES/blob/master/screenshots/004_triangles.png?raw=true" width="144" height="256"/>
+|[004_gl_triangle.cpp][cpp004]|画三角形(GL_TRIANGLE_STRIP) | <img src="https://github.com/liuxuanhai/LearnGLES/blob/master/screenshots/004_triangle_strip.png?raw=true" width="144" height="256"/>
+|[004_gl_triangle.cpp][cpp004]|画三角形(GL_TRIANGLE_FAN) | <img src="https://github.com/liuxuanhai/LearnGLES/blob/master/screenshots/004_triangle_fan.png?raw=true" width="144" height="256"/>
+|[005_gl_regular_polygons.cpp][cpp005]|画任意正多边形 | n=12 <img src="https://github.com/liuxuanhai/LearnGLES/blob/master/screenshots/005_regular_polygons.png?raw=true" width="144" height="256"/>
+|[006_gl_cube_app.cpp][cpp006]|立方体(透视投影)| <img src="https://github.com/liuxuanhai/LearnGLES/blob/de6945cd0f2d99c17a3ec540786f4fc1ecc28ea3/screenshots/006_cube.png" width="144" height="256"/>
+|[007_gl_texture.cpp][cpp007]|绘制一张纹理| <img src="https://github.com/liuxuanhai/LearnGLES/blob/master/screenshots/007_texture.png?raw=true" width="144" height="256"/>|
+|[008_gl_texture2.cpp][cpp008]|混合两张纹理| <img src="https://github.com/liuxuanhai/LearnGLES/blob/master/screenshots/008_texture2.png?raw=true" width="144" height="256"/>|
+|[009_gl_texture3.cpp][cpp009]|混合两张纹理（动态变化）|<img src="https://github.com/liuxuanhai/LearnGLES/blob/master/screenshots/009_texture3.gif?raw=true" width="144" height="256"/>|
+|[0010_gl_transform.cpp][cpp0010]|矩阵变换（平移/旋转/放缩）| <img src="https://github.com/liuxuanhai/LearnGLES/blob/master/screenshots/0010_transform.png?raw=true" width="144" height="256"/>|
+|[0011_gl_transform2.cpp][cpp0011]|矩阵变换（动态：平移/旋转/放缩）| <img src="https://github.com/liuxuanhai/LearnGLES/blob/master/screenshots/0011_transform2.gif?raw=true" width="144" height="256"/>|
+|[0012_gl_coordinate.cpp][cpp0012]|坐标系变换| <img src="https://github.com/liuxuanhai/LearnGLES/blob/master/screenshots/0012_coordinate.gif?raw=true" width="144" height="256"/>|
+|[0013_gl_coordinate.cpp][cpp0013]|相机移动 （旋转）| <img src="https://github.com/liuxuanhai/LearnGLES/blob/master/screenshots/0013_camera.gif?raw=true" width="144" height="256"/>|
+|[0014_gl_light.cpp][cpp0014]| 光照 |  <img src="https://github.com/liuxuanhai/LearnGLES/blob/master/screenshots/0014_light.gif?raw=true" width="144" height="256"/>|
+|[0015_gl_diffuse.cpp][cpp0015]| 漫反射 |  <img src="https://github.com/liuxuanhai/LearnGLES/blob/master/screenshots/0015_diffuse.gif?raw=true" width="144" height="256"/>|
+|[0016_gl_specular.cpp][cpp0016]| 镜面反射 |  <img src="https://github.com/liuxuanhai/LearnGLES/blob/master/screenshots/0016_specular.gif?raw=true" width="144" height="256"/>|
+|[0017_gl_material.cpp][cpp0017]| 材质（光照） |  <img src="https://github.com/liuxuanhai/LearnGLES/blob/master/screenshots/0017_material.gif?raw=true" width="144" height="256"/>|
+|[0018_gl_light_maps.cpp][cpp0018]| 材质（光照/漫反射） |  <img src="https://github.com/liuxuanhai/LearnGLES/blob/master/screenshots/0018_diffusemap.gif?raw=true" width="144" height="256"/>|
+|[0019_gl_light_maps_specular.cpp][cpp0019]| 材质（光照/镜面反射） |  <img src="https://github.com/liuxuanhai/LearnGLES/blob/master/screenshots/0019_specularmap.gif?raw=true" width="144" height="256"/>|
 |[0020_gl_light_directional.cpp][cpp0020]| 平行光照 |  <img src="https://github.com/androidzhibinw/LearnGLES/blob/master/screenshots/0020_light_directional.gif?raw=true" width="144" height="256"/>|
-|[0021_gl_light_point.cpp][cpp0021]| 点光源-随距离衰减 |  <img src="https://github.com/androidzhibinw/LearnGLES/blob/master/screenshots/0021_light_point.gif?raw=true" width="144" height="256"/>|
-|[0022_gl_light_spot.cpp][cpp0022]| 聚光灯 |  <img src="https://github.com/androidzhibinw/LearnGLES/blob/master/screenshots/0022_light_spot.gif?raw=true" width="144" height="256"/>|
+|[0021_gl_light_point.cpp][cpp0021]| 点光源-随距离衰减 |  <img src="https://github.com/liuxuanhai/LearnGLES/blob/master/screenshots/0021_light_point.gif?raw=true" width="144" height="256"/>|
+|[0022_gl_light_spot.cpp][cpp0022]| 聚光灯 |  <img src="https://github.com/liuxuanhai/LearnGLES/blob/master/screenshots/0022_light_spot.gif?raw=true" width="144" height="256"/>|
 
 
-[cpp001]:https://github.com/androidzhibinw/LearnGLES/blob/master/app/src/main/cpp/001_gl_color_app.cpp
-[cpp002]:https://github.com/androidzhibinw/LearnGLES/blob/master/app/src/main/cpp/002_gl_point_app.cpp
-[cpp003]:https://github.com/androidzhibinw/LearnGLES/blob/master/app/src/main/cpp/003_gl_lines_app.cpp
-[cpp004]:https://github.com/androidzhibinw/LearnGLES/blob/master/app/src/main/cpp/004_gl_triangle.cpp
-[cpp005]:https://github.com/androidzhibinw/LearnGLES/blob/master/app/src/main/cpp/005_gl_regular_polygons.cpp
-[cpp006]:https://github.com/androidzhibinw/LearnGLES/blob/master/app/src/main/cpp/006_gl_cube_app.cpp
-[cpp007]:https://github.com/androidzhibinw/LearnGLES/blob/master/app/src/main/cpp/007_gl_texture.cpp
-[cpp008]:https://github.com/androidzhibinw/LearnGLES/blob/master/app/src/main/cpp/008_gl_texture2.cpp
-[cpp009]:https://github.com/androidzhibinw/LearnGLES/blob/master/app/src/main/cpp/009_gl_texture3.cpp
-[cpp0010]:https://github.com/androidzhibinw/LearnGLES/blob/master/app/src/main/cpp/0010_gl_transform.cpp
-[cpp0011]:https://github.com/androidzhibinw/LearnGLES/blob/master/app/src/main/cpp/0011_gl_transform2.cpp
-[cpp0012]:https://github.com/androidzhibinw/LearnGLES/blob/master/app/src/main/cpp/0012_gl_coordiante.cpp
-[cpp0013]:https://github.com/androidzhibinw/LearnGLES/blob/master/app/src/main/cpp/0013_gl_camera.cpp
-[cpp0014]:https://github.com/androidzhibinw/LearnGLES/blob/master/app/src/main/cpp/0014_gl_light.cpp
-[cpp0015]:https://github.com/androidzhibinw/LearnGLES/blob/master/app/src/main/cpp/0015_gl_light_diffuse.cpp
-[cpp0016]:https://github.com/androidzhibinw/LearnGLES/blob/master/app/src/main/cpp/0016_gl_light_specular.cpp
-[cpp0017]:https://github.com/androidzhibinw/LearnGLES/blob/master/app/src/main/cpp/0017_gl_light_material.cpp
-[cpp0018]:https://github.com/androidzhibinw/LearnGLES/blob/master/app/src/main/cpp/0018_gl_light_maps.cpp
-[cpp0019]:https://github.com/androidzhibinw/LearnGLES/blob/master/app/src/main/cpp/0019_gl_light_maps_specular.cpp
-[cpp0020]:https://github.com/androidzhibinw/LearnGLES/blob/master/app/src/main/cpp/0020_gl_light_directional.cpp
-[cpp0021]:https://github.com/androidzhibinw/LearnGLES/blob/master/app/src/main/cpp/0021_gl_light_point.cpp
-[cpp0022]:https://github.com/androidzhibinw/LearnGLES/blob/master/app/src/main/cpp/0021_gl_light_spot.cpp
+[cpp001]:https://github.com/liuxuanhai/LearnGLES/blob/master/app/src/main/cpp/001_gl_color_app.cpp
+[cpp002]:https://github.com/liuxuanhai/LearnGLES/blob/master/app/src/main/cpp/002_gl_point_app.cpp
+[cpp003]:https://github.com/liuxuanhai/LearnGLES/blob/master/app/src/main/cpp/003_gl_lines_app.cpp
+[cpp004]:https://github.com/liuxuanhai/LearnGLES/blob/master/app/src/main/cpp/004_gl_triangle.cpp
+[cpp005]:https://github.com/liuxuanhai/LearnGLES/blob/master/app/src/main/cpp/005_gl_regular_polygons.cpp
+[cpp006]:https://github.com/liuxuanhai/LearnGLES/blob/master/app/src/main/cpp/006_gl_cube_app.cpp
+[cpp007]:https://github.com/liuxuanhai/LearnGLES/blob/master/app/src/main/cpp/007_gl_texture.cpp
+[cpp008]:https://github.com/liuxuanhai/LearnGLES/blob/master/app/src/main/cpp/008_gl_texture2.cpp
+[cpp009]:https://github.com/liuxuanhai/LearnGLES/blob/master/app/src/main/cpp/009_gl_texture3.cpp
+[cpp0010]:https://github.com/liuxuanhai/LearnGLES/blob/master/app/src/main/cpp/0010_gl_transform.cpp
+[cpp0011]:https://github.com/liuxuanhai/LearnGLES/blob/master/app/src/main/cpp/0011_gl_transform2.cpp
+[cpp0012]:https://github.com/liuxuanhai/LearnGLES/blob/master/app/src/main/cpp/0012_gl_coordiante.cpp
+[cpp0013]:https://github.com/liuxuanhai/LearnGLES/blob/master/app/src/main/cpp/0013_gl_camera.cpp
+[cpp0014]:https://github.com/liuxuanhai/LearnGLES/blob/master/app/src/main/cpp/0014_gl_light.cpp
+[cpp0015]:https://github.com/liuxuanhai/LearnGLES/blob/master/app/src/main/cpp/0015_gl_light_diffuse.cpp
+[cpp0016]:https://github.com/liuxuanhai/LearnGLES/blob/master/app/src/main/cpp/0016_gl_light_specular.cpp
+[cpp0017]:https://github.com/liuxuanhai/LearnGLES/blob/master/app/src/main/cpp/0017_gl_light_material.cpp
+[cpp0018]:https://github.com/liuxuanhai/LearnGLES/blob/master/app/src/main/cpp/0018_gl_light_maps.cpp
+[cpp0019]:https://github.com/liuxuanhai/LearnGLES/blob/master/app/src/main/cpp/0019_gl_light_maps_specular.cpp
+[cpp0020]:https://github.com/liuxuanhai/LearnGLES/blob/master/app/src/main/cpp/0020_gl_light_directional.cpp
+[cpp0021]:https://github.com/liuxuanhai/LearnGLES/blob/master/app/src/main/cpp/0021_gl_light_point.cpp
+[cpp0022]:https://github.com/liuxuanhai/LearnGLES/blob/master/app/src/main/cpp/0021_gl_light_spot.cpp
 
 
